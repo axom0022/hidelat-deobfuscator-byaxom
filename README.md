@@ -27,22 +27,22 @@ Install on Android :
 ```
 pkg update
 pkg install lua53 python
-
+```
 Install on Debian,Ubuntu,Kali :
 ```
-```
 sudo apt update
-sudo apt install lua5.3 python3```
+sudo apt install lua5.3 python3
 ```
 Install on macOS :
+```
 brew install lua@5.3 python3
 ```
-```
 Install on Arch/Manjaro :
+```
 sudo pacman -S lua53 python
 ```
-```
 Install on Windows :
+```
 https://luabinaries.sourceforge.net/download.html
 ```
 # ENJOY - BY AXOM
